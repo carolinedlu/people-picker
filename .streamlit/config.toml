@@ -3,3 +3,4 @@
 # If set to False, an exception will result in a generic message being shown in the browser, and exceptions and tracebacks will be printed to the console only.
 # Default: true
 showTracebacks = true
+showErrorDetails = true
